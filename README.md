@@ -7,7 +7,7 @@
 - 💬 Ask me about python and all discord related stuff
 - 📫 How to reach me: Kaworu#0250
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: If you press clitoris and g-spot at the same time to a girl she will take a screenshot and keep you forever in her memory
+
 
 ---
 
