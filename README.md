@@ -1,7 +1,7 @@
 ### teo_bale / Kaworu / カヲル
 
 
-- 🔭 I’m currently working on ServerPanel
+- 🔭 I’m currently working on my own design system
 - 🌱 I’m currently learning react, typescript and japanese
 - 🤔 I’m looking for help with design
 - 💬 Ask me about python and all discord related stuff
