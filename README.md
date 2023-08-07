@@ -1,18 +1,18 @@
 ### teo_bale / Kaworu / カヲル
 
-
+- 📚 Science high school student
 - 🔭 I’m currently working on my own design system
 - 🌱 I’m currently learning react, typescript and japanese
 - 🤔 I’m looking for help with design
 - 💬 Ask me about python and all discord related stuff
-- 📫 How to reach me: Kaworu#0250
+- 📫 How to reach me: @teo_bale
 - 😄 Pronouns: he/him
 
 
 ---
 
-- :camera: IG: teo_bale
-- :sound: DS: Kaworu#0250
+- :camera: IG: @teo_bale
+- :sound: DS: @teo_bale
 - :video_game: MC: ItsKawory
 
 <!--
