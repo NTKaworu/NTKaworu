@@ -1,5 +1,7 @@
 ### teo_bale / Kaworu / カヲル
 
+![](https://i.pinimg.com/564x/d8/76/12/d876125c31bf48fca36ecadebb19b551.jpg)
+
 - 📚 Science high school student
 - 🔭 I’m currently working on my own design system
 - 🌱 I’m currently learning react, typescript and japanese
