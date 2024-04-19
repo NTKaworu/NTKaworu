@@ -1,6 +1,6 @@
 ### teo_bale / Kaworu / カヲル
 
-![](https://i.pinimg.com/564x/c9/7c/a1/c97ca1dc5258b5a5b60018565db4c1ad.jpg)
+![](https://raw.githubusercontent.com/TeoBale/TeoBale/main/assets/cover.png)
 
 - 📚 Science high school student
 - 🔭 I’m currently working on my own design system
